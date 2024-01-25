@@ -10,6 +10,14 @@
       "StackName": "amplify-microfrontend1-dev-164045",
       "StackId": "arn:aws:cloudformation:ca-central-1:026824126036:stack/amplify-microfrontend1-dev-164045/a99ff380-bbb9-11ee-87b9-02bccbb3be8e",
       "AmplifyAppId": "df41p3u8n4nie"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "df41p3u8n4nie",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
